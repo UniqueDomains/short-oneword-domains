@@ -33,8 +33,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0008fc5b-e720-4ac1-a37d-e797bee0305c,paused.academy,available,21.99,,56,6,6,name.com,,
 00093b9e-5f06-4f46-93c9-4bdf3e4dbe17,beans.diy,premium,87.5,,74,20,5,name.com,,
 0009795a-3402-4e51-94fa-36919df2e51a,senses.irish,available,9.99,,63,13,6,name.com,,
-00098345-0f19-410c-9ff6-af0e045ebc15,quote.shop,premium,1250,,82,31,5,name.com,,
-00098a20-2018-4e93-b2da-b6b8a2b4f81a,lcd.solutions,available,5.99,,76,13,3,name.com,,
+00098345-0f19-410c-9ff6-af0e045ebc15,quote.shop,premium,1250,,82,30,5,name.com,,
+00098a20-2018-4e93-b2da-b6b8a2b4f81a,lcd.solutions,available,5.99,,76,12,3,name.com,,
 0009bede-9d19-47b4-97b1-eb138142bbdf,tubes.estate,available,14.99,,48,12,5,name.com,,
 0009e4e2-9c65-4531-82bc-2f69e6ba3019,talked.now,available,49.98,,62,6,6,namecheap,,
 0009f7ec-0c5b-4987-8bc0-f16ea474d7e5,calls.dad,premium,161.25,,50,16,5,name.com,,
@@ -274,6 +274,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 004a7603-9a29-47c2-b651-89f118b40bb9,rivals.technology,available,17.99,,48,20,6,name.com,,
 004a8f00-c10d-4bed-95c8-8e82aeff4d4b,useit.viajes,available,57.98,,94,7,6,namecheap,,
 004ab728-9c92-42f7-b29a-13cacea1e45e,paths.ski,available,39.99,,53,13,5,name.com,,
+004b1048-0286-4836-98e2-75c6983c0df0,island.guru,premium,,,72,34,6,,,
 004b2f43-7abf-44e2-97b0-2722095691b3,thinks.onl,resell,,,64,10,6,"Global Domains International, Inc. DBA DomainCostClub.com",03/01/2023 23:27,03/01/2031 23:27
 004b41bf-72db-42a9-8f69-031892854476,sizes.surgery,available,54.99,54.99,50,5,5,namesilo,,
 004b5c74-1529-4aa3-ae20-b29dcf9ec357,urges.republican,available,5.99,,51,4,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 010dc26a-0c4c-49bc-ad49-e40580a06813,Places.bz,available,26.98,,74,22,6,namecheap,,
 010dc274-27ef-440b-b682-ddc091f47a72,wrists.faith,available,11.99,11.99,49,3,6,namesilo,,
 010dcb10-2df4-4f60-8cc9-558d3a659b26,abides.observer,available,15.99,,70,4,6,name.com,,
-010e42e2-df47-4e1a-bad6-77e2f3231b0d,wears.salon,available,14.99,,62,7,5,name.com,,
