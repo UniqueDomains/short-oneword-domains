@@ -87,6 +87,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0017c46a-0aa4-466f-a96c-85bc28cc187d,vales.melbourne,available,53.98,,56,9,5,namecheap,,
 001818a9-fb6a-43d2-af3e-6c90101226f5,Apples.lifestyle,available,48.98,,90,16,6,namecheap,,
 00186a08-1f16-4b82-9f43-95132d2b352a,seton.autos,premium,2500,,72,9,6,name.com,,
+00189213-9fd5-4bb1-a33a-9bbe9be622b5,seats.bike,premium,,,74,12,5,,,
 00194c1c-edca-49da-90e1-4eb4f2cff704,plated.travel,available,39.99,,66,11,6,name.com,,
 001975e0-3563-4668-a164-b127ee376056,wished.plumbing,available,14.99,,66,4,6,name.com,,
 00197ff1-8fae-48c7-bee7-842e5696d027,blogs.red,available,14.99,,52,21,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 010c786e-bfb0-4fa0-ae60-aa730f1fb091,ebooks.limo,available,19.99,,62,19,6,name.com,,
 010dc26a-0c4c-49bc-ad49-e40580a06813,Places.bz,available,26.98,,74,22,6,namecheap,,
 010dc274-27ef-440b-b682-ddc091f47a72,wrists.faith,available,11.99,11.99,49,3,6,namesilo,,
-010dcb10-2df4-4f60-8cc9-558d3a659b26,abides.observer,available,15.99,,70,4,6,name.com,,
