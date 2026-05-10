@@ -93,6 +93,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00197ff1-8fae-48c7-bee7-842e5696d027,blogs.red,available,14.99,,52,21,5,name.com,,
 0019fa21-9da7-470c-b32f-8b706b8d4468,ladies.gives,available,5.99,,80,17,6,name.com,,
 001a2639-3b7b-493c-b4e9-b4f85a180f70,vetoed.work,available,2.99,,50,2,6,name.com,,
+001aac07-b148-46e5-8cc9-b3e0414f6124,borrow.xyz,resell,,,66,14,6,Dynadot LLC,20/02/2019 05:58,20/02/2027 23:59
 001aad37-258a-4064-b2fc-bb7afb5cf5ea,grams.cfd,premium,180.6,361.2,70,12,5,namecheap,,
 001b48fd-1998-435b-a28a-38c2361bbed0,cycles.flights,available,58.99,58.99,52,13,6,namesilo,,
 001b6e4d-03cd-4555-bbbd-5750cfd218ce,tastes.sh,available,39.99,47.99,52,6,6,namesilo,,
@@ -600,6 +601,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00a2aa3a-9c1d-47fb-bbac-accf20cf7c49,forces.tours,available,9.99,,82,12,6,name.com,,
 00a383b8-7e7e-4121-acaa-21887c3f2d2b,maps.cricket,premium,437.5,,56,31,4,name.com,,
 00a401cc-0d3e-41e4-8c58-2940a51ec983,necks.porn,available,154.98,,52,3,5,namecheap,,
+00a408b7-6f93-4e31-9857-ecb2e3524be0,enrich.contact,premium,,,80,17,6,,,
 00a44c13-425e-4a5a-9b8e-5dae925339b5,KFC.boats,available,19.98,,74,27,3,namecheap,,
 00a47886-ec75-4a91-962e-082bea0cec88,soups.esq,available,26.99,,56,6,5,name.com,,
 00a4cb75-a5d8-4a48-b77f-dc43511de4df,useto.page,available,12.79,12.99,72,2,6,namesilo,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 010bc55b-2fa1-414c-a96f-731bdcc16f22,goape.rocks,available,12.99,,76,5,6,name.com,,
 010beb76-b0b7-46e7-96af-4cae41e4d324,prints.immobilien,available,14.99,,54,18,6,name.com,,
 010c786e-bfb0-4fa0-ae60-aa730f1fb091,ebooks.limo,available,19.99,,62,19,6,name.com,,
-010dc26a-0c4c-49bc-ad49-e40580a06813,Places.bz,available,26.98,,74,22,6,namecheap,,
-010dc274-27ef-440b-b682-ddc091f47a72,wrists.faith,available,11.99,11.99,49,3,6,namesilo,,
