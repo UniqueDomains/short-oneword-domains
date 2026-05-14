@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| makers.storage       | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo                           |
-| key.management       | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC                        |
-| Books.trading        | premium   | $280      | $280          | 52             | 49     | 5      | namecheap                          |
-| Keys.domains         | available | $53.98    | —             | 66             | 46     | 4      | namecheap                          |
-| tokens.center        | resell    | —         | —             | 51             | 36     | 6      | Automattic Inc.                    |
-| jobs.jewelry         | premium   | $500      | —             | 79             | 42     | 4      | name.com                           |
-| coins.cars           | available | $2,950    | —             | 56             | 41     | 5      | namecheap                          |
-| trades.international | resell    | —         | —             | 71             | 26     | 6      | NameCheap, Inc.                    |
-| WiFi.you             | premium   | $700      | $700          | 83             | 37     | 5      | namecheap                          |
-| matcha.christmas     | available | $49.98    | —             | 86             | 39     | 6      | namecheap                          |
-| Trex.direct          | resell    | —         | —             | 80             | 24     | 5      | GoDaddy.com, LLC                   |
-| events.talk          | premium   | $625      | —             | 68             | 37     | 6      | name.com                           |
-| lets.university      | available | $19.99    | —             | 77             | 39     | 4      | name.com                           |
-| whats.live           | resell    | —         | —             | 58             | 24     | 5      | Dynadot Inc                        |
-| homes.partners       | premium   | $250      | —             | 86             | 34     | 5      | name.com                           |
-| trends.bargains      | available | $21.99    | —             | 60             | 32     | 6      | name.com                           |
-| smarts.world         | resell    | —         | —             | 67             | 16     | 6      | Sav.com, LLC - 29                  |
-| etc.uno              | premium   | $156.25   | —             | 58             | 34     | 3      | name.com                           |
-| maps.gratis          | available | $26.99    | —             | 56             | 31     | 4      | name.com                           |
-| finds.cfd            | resell    | —         | —             | 62             | 16     | 5      | Global Domains International, Inc. |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| makers.storage       | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo          |
+| key.management       | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC       |
+| Books.trading        | premium   | $280      | $280          | 52             | 49     | 5      | namecheap         |
+| Keys.domains         | available | $53.98    | —             | 66             | 46     | 4      | namecheap         |
+| tokens.center        | resell    | —         | —             | 51             | 36     | 6      | Automattic Inc.   |
+| jobs.jewelry         | premium   | $500      | —             | 79             | 42     | 4      | name.com          |
+| coins.cars           | available | $2,950    | —             | 56             | 41     | 5      | namecheap         |
+| trades.international | resell    | —         | —             | 71             | 26     | 6      | NameCheap, Inc.   |
+| WiFi.you             | premium   | $700      | $700          | 83             | 37     | 5      | namecheap         |
+| matcha.christmas     | available | $49.98    | —             | 86             | 39     | 6      | namecheap         |
+| Trex.direct          | resell    | —         | —             | 80             | 24     | 5      | GoDaddy.com, LLC  |
+| events.talk          | premium   | $625      | —             | 68             | 37     | 6      | name.com          |
+| lets.university      | available | $19.99    | —             | 77             | 39     | 4      | name.com          |
+| whats.live           | resell    | —         | —             | 58             | 24     | 5      | Dynadot Inc       |
+| homes.partners       | premium   | $250      | —             | 86             | 34     | 5      | name.com          |
+| trends.bargains      | available | $21.99    | —             | 60             | 32     | 6      | name.com          |
+| plants.xyz           | resell    | —         | —             | 75             | 22     | 6      | Dynadot LLC       |
+| etc.uno              | premium   | $156.25   | —             | 58             | 34     | 3      | name.com          |
+| maps.gratis          | available | $26.99    | —             | 56             | 31     | 4      | name.com          |
+| smarts.world         | resell    | —         | —             | 67             | 16     | 6      | Sav.com, LLC - 29 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
