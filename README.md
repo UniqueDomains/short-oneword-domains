@@ -1,10 +1,10 @@
-# One-Word Domains 6 Characters or Less (1,748,682)
+# One-Word Domains 6 Characters or Less (1,748,729)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C748%2C682%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C748%2C729%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 1,747,130 one-word domains that are 6 characters or less, spanning 505 TLDs. Updated daily. Median ask is about $665, so the main comparison points are extension quality, memorability, and whether a very short word fits your use case cleanly.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,748,682 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,748,729 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,748,682 domains · **Median ask:** $681.24 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,748,729 domains · **Median ask:** $681.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/short`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | homes.partners       | premium   | $250      | —             | 86             | 34     | 5      | name.com          |
 | trends.bargains      | available | $21.99    | —             | 60             | 32     | 6      | name.com          |
 | plants.xyz           | resell    | —         | —             | 75             | 22     | 6      | Dynadot LLC       |
-| etc.uno              | premium   | $156.25   | —             | 58             | 34     | 3      | name.com          |
+| Cats.global          | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap         |
 | maps.gratis          | available | $26.99    | —             | 56             | 31     | 4      | name.com          |
 | smarts.world         | resell    | —         | —             | 67             | 16     | 6      | Sav.com, LLC - 29 |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,748,682 live domains                     |
+| 1,000-row public sample | 1,748,729 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domains 6 Characters or Less*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domains 6 Characters or Less*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
