@@ -1,10 +1,10 @@
-# One-Word Domains 6 Characters or Less (1,748,729)
+# One-Word Domains 6 Characters or Less (1,748,758)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C748%2C729%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C748%2C758%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 1,747,130 one-word domains that are 6 characters or less, spanning 505 TLDs. Updated daily. Median ask is about $665, so the main comparison points are extension quality, memorability, and whether a very short word fits your use case cleanly.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,748,729 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,748,758 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,748,729 domains · **Median ask:** $681.22 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,748,758 domains · **Median ask:** $456.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/short`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| makers.storage       | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo          |
-| key.management       | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC       |
-| Books.trading        | premium   | $280      | $280          | 52             | 49     | 5      | namecheap         |
-| Keys.domains         | available | $53.98    | —             | 66             | 46     | 4      | namecheap         |
-| tokens.center        | resell    | —         | —             | 51             | 36     | 6      | Automattic Inc.   |
-| jobs.jewelry         | premium   | $500      | —             | 79             | 42     | 4      | name.com          |
-| coins.cars           | available | $2,950    | —             | 56             | 41     | 5      | namecheap         |
-| trades.international | resell    | —         | —             | 71             | 26     | 6      | NameCheap, Inc.   |
-| WiFi.you             | premium   | $700      | $700          | 83             | 37     | 5      | namecheap         |
-| matcha.christmas     | available | $49.98    | —             | 86             | 39     | 6      | namecheap         |
-| Trex.direct          | resell    | —         | —             | 80             | 24     | 5      | GoDaddy.com, LLC  |
-| events.talk          | premium   | $625      | —             | 68             | 37     | 6      | name.com          |
-| lets.university      | available | $19.99    | —             | 77             | 39     | 4      | name.com          |
-| whats.live           | resell    | —         | —             | 58             | 24     | 5      | Dynadot Inc       |
-| homes.partners       | premium   | $250      | —             | 86             | 34     | 5      | name.com          |
-| trends.bargains      | available | $21.99    | —             | 60             | 32     | 6      | name.com          |
-| plants.xyz           | resell    | —         | —             | 75             | 22     | 6      | Dynadot LLC       |
-| Cats.global          | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap         |
-| maps.gratis          | available | $26.99    | —             | 56             | 31     | 4      | name.com          |
-| smarts.world         | resell    | —         | —             | 67             | 16     | 6      | Sav.com, LLC - 29 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| chips.doctor    | available | $14.99    | —             | 84             | 24     | 5      | name.com         |
+| tire.vodka      | premium   | $47.20    | $29.50        | 88             | 17     | 4      | namesilo         |
+| vocal.graphics  | available | $23.99    | $23.99        | 90             | 17     | 5      | namesilo         |
+| Audi.estate     | premium   | —         | —             | 86             | 20     | 4      | —                |
+| have.cars       | available | $1,999.99 | $2,199        | 112            | 26     | 4      | namesilo         |
+| suv.services    | resell    | —         | —             | 82             | 18     | 3      | GoDaddy.com, LLC |
+| bust.careers    | available | $49.99    | —             | 102            | 10     | 4      | name.com         |
+| fruity.fish     | premium   | —         | —             | 84             | 10     | 6      | —                |
+| name.lighting   | premium   | —         | —             | 82             | 26     | 4      | —                |
+| Uber.company    | premium   | —         | —             | 106            | 29     | 4      | —                |
+| hybrid.loan     | premium   | $1,107    | $116          | 88             | 27     | 6      | namesilo         |
+| tape.apartments | available | $19.99    | —             | 90             | 19     | 4      | name.com         |
+| mixing.mobi     | available | $6.99     | —             | 84             | 10     | 6      | name.com         |
+| adlib.charity   | premium   | —         | —             | 88             | 7      | 6      | —                |
+| heroic.supplies | available | $32.48    | —             | 100            | 22     | 6      | namecheap        |
+| words.esq       | premium   | $811.25   | —             | 86             | 26     | 5      | name.com         |
+| abkhaz.immo     | available | $9.99     | $45.99        | 82             | 2      | 6      | name.com         |
+| agreed.villas   | available | $19.99    | $80.99        | 96             | 8      | 6      | name.com         |
+| dismay.asia     | available | $2.59     | $13.49        | 82             | 3      | 6      | namesilo         |
+| pan.gives       | available | $5.99     | —             | 106            | 28     | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,748,729 live domains                     |
+| 1,000-row public sample | 1,748,758 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domains 6 Characters or Less*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domains 6 Characters or Less*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
