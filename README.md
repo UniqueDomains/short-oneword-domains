@@ -1,23 +1,23 @@
-# One-Word Domains 6 Characters or Less (1,748,758)
+# Short One-Word Domains, 6 Characters or Fewer (1,759,539)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C748%2C758%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C759%2C539%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-This selection covers 1,747,130 one-word domains that are 6 characters or less, spanning 505 TLDs. Updated daily. Median ask is about $665, so the main comparison points are extension quality, memorability, and whether a very short word fits your use case cleanly.
+This selection covers short, one-word domain names of six characters or fewer across 506 TLDs. It includes 1,759,539 domains with a median ask of $420. Updated daily, most entries fall under $500, with a smaller premium tier priced above $2,000.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,748,758 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,759,539 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,748,758 domains · **Median ask:** $456.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,759,539 domains · **Median ask:** $420.17 · **High-demand under $2,500:** 5,150
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/short`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for the exact Unique Domains search repres
 
 ### Files
 
-- `short.csv` — public CSV extract (1,000 rows)
-- `short.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `short.csv`, public CSV extract (1,000 rows)
+- `short.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| chips.doctor    | available | $14.99    | —             | 84             | 24     | 5      | name.com         |
-| tire.vodka      | premium   | $47.20    | $29.50        | 88             | 17     | 4      | namesilo         |
-| vocal.graphics  | available | $23.99    | $23.99        | 90             | 17     | 5      | namesilo         |
-| Audi.estate     | premium   | —         | —             | 86             | 20     | 4      | —                |
-| have.cars       | available | $1,999.99 | $2,199        | 112            | 26     | 4      | namesilo         |
-| suv.services    | resell    | —         | —             | 82             | 18     | 3      | GoDaddy.com, LLC |
-| bust.careers    | available | $49.99    | —             | 102            | 10     | 4      | name.com         |
-| fruity.fish     | premium   | —         | —             | 84             | 10     | 6      | —                |
-| name.lighting   | premium   | —         | —             | 82             | 26     | 4      | —                |
-| Uber.company    | premium   | —         | —             | 106            | 29     | 4      | —                |
-| hybrid.loan     | premium   | $1,107    | $116          | 88             | 27     | 6      | namesilo         |
-| tape.apartments | available | $19.99    | —             | 90             | 19     | 4      | name.com         |
-| mixing.mobi     | available | $6.99     | —             | 84             | 10     | 6      | name.com         |
-| adlib.charity   | premium   | —         | —             | 88             | 7      | 6      | —                |
-| heroic.supplies | available | $32.48    | —             | 100            | 22     | 6      | namecheap        |
-| words.esq       | premium   | $811.25   | —             | 86             | 26     | 5      | name.com         |
-| abkhaz.immo     | available | $9.99     | $45.99        | 82             | 2      | 6      | name.com         |
-| agreed.villas   | available | $19.99    | $80.99        | 96             | 8      | 6      | name.com         |
-| dismay.asia     | available | $2.59     | $13.49        | 82             | 3      | 6      | namesilo         |
-| pan.gives       | available | $5.99     | —             | 106            | 28     | 3      | name.com         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| act.army       | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| radar.markets  | resell    | $9.99     | —             | medium         | low    | 5      | Dynadot Inc                                               |
+| add.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| aft.name       | available | $8.98     | $9.98         | low            | low    | 3      | namecheap                                                 |
+| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
+| aid.lease      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| apt.memorial   | available | $64.98    | —             | high           | low    | 3      | namecheap                                                 |
+| aim.wtf        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| aid.phd        | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                                  |
+| apt.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                  |
+| any.express    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ana.living     | premium   | $980      | $1,400        | high           | low    | 3      | namecheap                                                 |
+| axe.engineer   | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
+| bay.golf       | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                              |
+| Ann.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| beg.shiksha    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc                                               |
+| atp.you        | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
+| beg.tips       | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| fun.technology | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,748,758 live domains                     |
+| 1,000-row public sample | 1,759,539 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 5,150 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are defined by one constraint: each name is 6 characters or less. That creates a very broad mix, from highly familiar words to niche terms, spread across 505 extensions. Sample names such as bot.realty, run.ryukyu, key.ryukyu, NYC.eco, and bus.hamburg show how much the extension shapes meaning. For founders, the main question is whether the word is easy to remember and the TLD supports trust. For investors, the key check is whether the ask leaves room versus comparable short names in similar extensions. With a median ask near $665, discipline matters more than chasing rarity alone.
+This is a broad pool of short, one-word domain names limited to six characters or fewer, spread across 506 different TLD extensions rather than one narrow category. Pricing skews affordable — the bulk of listings sit under $500, with a thinner tier of premium names priced above $2,000 and a small handful above $10,000. Availability status is mixed, so checking each domain's status and renewal cost before shortlisting is worthwhile.
 
-- 6 characters or less keeps names compact and memorable
-- 505 TLDs means extension quality varies widely
-- Median ask is about $665 across this selection
-- Judge the word and TLD together, not in isolation
+- 1,759,539 domains, six characters or fewer, across 506 TLDs
+- Median ask $420; most list under $500, some premium above $10k
+- 76% status Available, with Premium and Resell tiers mixed in
+- Only ~2% score in the Top 15% demand tier — scarcity matters
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domains 6 Characters or Less*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
