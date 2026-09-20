@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** 3,191,143 domains · **Median ask:** $269.21 · **High-demand under $2,500:** 6,697
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | ana.living     | premium   | $980      | $1,400        | high           | low    | 3      | namecheap                                                 |
 | axe.engineer   | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
 | any.express    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| Ann.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| ann.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | bay.tires      | available | $5.99     | $78.99        | low            | low    | 3      | namesilo                                                  |
 | bay.golf       | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                               |
 | atp.you        | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
