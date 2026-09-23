@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** 3,191,143 domains · **Median ask:** $269.21 · **High-demand under $2,500:** 6,697
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | aft.name       | available | $8.98     | $9.98         | low            | low    | 3      | namecheap                                                 |
 | radar.markets  | resell    | $9.99     | —             | medium         | low    | 5      | Dynadot Inc                                               |
 | aid.lease      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
-| apt.memorial   | available | $64.98    | —             | high           | low    | 3      | namecheap                                                 |
-| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
+| apt.memorial   | available | $54.98    | $64.98        | low            | low    | 3      | namecheap                                                 |
+| mingle.health  | resell    | $89.99    | $103.99       | low            | low    | 6      | name.com                                                  |
 | aid.phd        | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                                  |
-| apt.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                  |
-| aim.wtf        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| apt.vote       | available | $23.98    | $119.98       | low            | low    | 3      | namecheap                                                 |
+| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
 | ana.living     | premium   | $980      | $1,400        | high           | low    | 3      | namecheap                                                 |
 | axe.engineer   | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
-| any.express    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| aim.wtf        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
 | ann.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | bay.tires      | available | $5.99     | $78.99        | low            | low    | 3      | namesilo                                                  |
-| bay.golf       | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                               |
+| any.express    | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | atp.you        | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
 | beg.shiksha    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
-| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc                                               |
+| bay.golf       | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
