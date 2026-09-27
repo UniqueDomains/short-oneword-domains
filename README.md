@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** 3,191,143 domains · **Median ask:** $269.21 · **High-demand under $2,500:** 6,697
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| act.army       | available | $18.99    | $39.99        | high           | low    | 3      | namesilo                                    |
-| radar.markets  | resell    | $9.99     | —             | high           | low    | 5      | Dynadot Inc                                 |
-| add.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
-| add.srl        | available | $31.99    | $31.99        | high           | low    | 3      | namesilo                                    |
-| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
-| aid.lease      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
-| aft.name       | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                   |
-| aim.wtf        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                             |
-| aid.phd        | premium   | $411.25   | —             | high           | low    | 3      | name.com                                    |
-| ana.vacations  | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
-| bay.golf       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                 |
-| ana.living     | premium   | $980      | $1,400        | high           | low    | 3      | namecheap                                   |
-| axe.engineer   | available | $13.99    | —             | high           | low    | 3      | name.com                                    |
-| mom.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| ann.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
-| bay.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo                                    |
-| mum.net        | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| atp.you        | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
-| beg.shiksha    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| net.garden     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aba.bargains    | available | $21.99    | $43.99        | high           | low    | 3      | name.com          |
+| remote.autos    | resell    | $684.64   | —             | high           | medium | 6      | NameCheap, Inc.   |
+| boy.singles     | premium   | $41.99    | —             | high           | low    | 3      | name.com          |
+| aec.vc          | available | $32.98    | $41.98        | high           | low    | 3      | namecheap         |
+| bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.    |
+| bug.study       | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap         |
+| dna.tours       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| cad.mobile      | premium   | $390      | $390          | high           | low    | 3      | namecheap         |
+| aid.enterprises | available | $5.99     | —             | high           | low    | 3      | name.com          |
+| ely.us          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| cat.motorcycles | premium   | $2,500    | —             | high           | high   | 3      | name.com          |
+| ala.delivery    | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| emu.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC  |
+| ccc.download    | premium   | $625      | $81.25        | high           | medium | 3      | name.com          |
+| ala.markets     | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| fan.app         | resell    | —         | —             | high           | medium | 3      | united-domains AG |
+| cva.press       | premium   | $162.50   | $325          | medium         | low    | 3      | namecheap         |
+| avo.clothing    | available | $32.99    | $32.99        | high           | low    | 3      | namesilo          |
+| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
