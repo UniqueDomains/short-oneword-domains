@@ -25,7 +25,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 <p align="center">
   <a href="https://unique.domains/domains/short?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./short.csv">CSV</a> / <a href="./short.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -81,7 +81,7 @@ print(df.head())
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun          |
 | ala.markets     | available | $5.38     | $15.73        | high           | low    | 3      | spaceship        |
 | sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
-| ccc.download    | premium   | $625      | $81.25        | high           | medium | 3      | name.com         |
+| ccc.download    | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship        |
 | anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo         |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/short?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
