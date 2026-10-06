@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** 6,258,831 domains · **Median ask:** $211.73 · **High-demand under $2,500:** 19,125
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | aba.bargains    | available | $21.99    | $43.99        | high           | low    | 3      | name.com         |
 | cue.homes       | resell    | $1.99     | $17.29        | high           | medium | 3      | namesilo         |
-| adm.game        | premium   | $1,729    | $1,729        | high           | low    | 3      | namesilo         |
+| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
 | adi.diet        | available | $104.99   | $114.99       | high           | low    | 3      | namesilo         |
 | bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
-| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
+| ayn.build       | premium   | $155.45   | $155.45       | high           | low    | 3      | spaceship        |
 | adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship        |
 | ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                |
-| ayn.build       | premium   | $155.45   | $155.45       | high           | low    | 3      | spaceship        |
+| bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot          |
 | afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
 | dna.tours       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot          |
+| bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun          |
 | ala.delivery    | available | $5.03     | $51.58        | high           | low    | 3      | dynadot          |
 | fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun          |
+| ccc.download    | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship        |
 | ala.markets     | available | $5.38     | $15.73        | high           | low    | 3      | spaceship        |
 | sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
-| ccc.download    | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship        |
+| cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship        |
 | anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo         |
-| beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| ssm.in          | resell    | —         | —             | medium         | low    | 3      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
