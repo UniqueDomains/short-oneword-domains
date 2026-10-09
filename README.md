@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** 6,258,831 domains · **Median ask:** $211.73 · **High-demand under $2,500:** 19,125
 
-**Last updated:** 2026-10-08
+**Last updated:** 2026-10-09
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
 | ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                |
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun          |
-| ala.delivery    | available | $5.03     | $51.58        | high           | low    | 3      | dynadot          |
+| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
 | dna.tours       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| ccc.download    | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship        |
-| ala.markets     | available | $5.38     | $15.73        | high           | low    | 3      | spaceship        |
-| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship        |
-| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo         |
-| sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
+| ala.delivery    | available | $5.03     | $51.58        | high           | low    | 3      | dynadot          |
+| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship        |
-| bag.realty      | available | $88.18    | $289.16       | high           | low    | 3      | spaceship        |
+| ala.markets     | available | $5.38     | $15.73        | high           | low    | 3      | spaceship        |
+| sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
+| chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship        |
+| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo         |
 | ssm.in          | resell    | —         | —             | medium         | low    | 3      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
