@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship        |
+| aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable      |
 | cue.homes       | resell    | $1.99     | $17.29        | high           | medium | 3      | namesilo         |
 | ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
-| adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship        |
+| adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship        |
 | bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
 | ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
-| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
+| adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship        |
 | ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                |
 | bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot          |
-| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
 | fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun          |
-| ajo.diamonds    | available | $43.67    | $43.67        | medium         | low    | 3      | spaceship        |
+| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
 | sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
 | cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship        |
-| ala.markets     | available | $5.38     | $15.73        | high           | low    | 3      | spaceship        |
-| ssm.in          | resell    | —         | —             | medium         | low    | 3      | —                |
+| ajo.diamonds    | available | $43.67    | $43.67        | medium         | low    | 3      | spaceship        |
+| ssm.in          | resell    | —         | —             | high           | low    | 3      | —                |
 | cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship        |
-| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo         |
+| ala.markets     | available | $5.38     | $15.73        | high           | low    | 3      | spaceship        |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
