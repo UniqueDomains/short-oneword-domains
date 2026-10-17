@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** 6,258,831 domains · **Median ask:** $211.73 · **High-demand under $2,500:** 19,125
 
-**Last updated:** 2026-10-16
+**Last updated:** 2026-10-17
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
 | cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship        |
 | agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
-| ssm.in          | resell    | —         | —             | high           | low    | 3      | —                |
+| ssm.in          | resell    | —         | —             | medium         | low    | 3      | —                |
 | cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship        |
 | ajo.diamonds    | available | $43.67    | $43.67        | medium         | low    | 3      | spaceship        |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
