@@ -14,9 +14,9 @@ This selection covers short, one-word domain names of six characters or fewer ac
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **~6,830,000 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** ~6,830,000 domains · **Median ask:** ~$224.66 · **High-demand under $2,500:** ~18,500
+**Public extract:** 1,000 rows · **Live catalog:** ~6,830,000 domains · **Median ask:** ~$199.71 · **High-demand under $2,500:** ~16,300
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-28
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -69,19 +69,19 @@ print(df.head())
 | ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
 | aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable      |
 | bet.news        | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.   |
-| adm.game        | premium   | $1,729    | $1,729        | high           | low    | 3      | namesilo         |
+| ahi.team        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
 | aba.bargains    | available | $21.99    | $43.99        | high           | low    | 3      | name.com         |
 | ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                |
-| ahi.team        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
+| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
 | adj.cam         | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship        |
 | dna.tours       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
+| auv.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship        |
 | adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship        |
 | fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| auv.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship        |
+| ayn.build       | premium   | $155.45   | $155.45       | medium         | low    | 3      | spaceship        |
 | afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
 | sku.us          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ayn.build       | premium   | $155.45   | $155.45       | medium         | low    | 3      | spaceship        |
+| bfa.guide       | premium   | $36.30    | $36.30        | medium         | low    | 3      | dynadot          |
 | agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
 | ssm.in          | resell    | —         | —             | high           | low    | 3      | —                |
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ---------------------------------------------------- |
 | 1,000-row public sample | ~6,830,000 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | ~18,500 high-demand names under $2,500               |
+| Basic exported fields   | ~16,300 high-demand names under $2,500               |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
