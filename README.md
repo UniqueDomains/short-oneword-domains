@@ -16,7 +16,7 @@ This selection covers short, one-word domain names of six characters or fewer ac
 
 **Public extract:** 1,000 rows · **Live catalog:** ~6,900,000 domains · **Median ask:** ~$216.62 · **High-demand under $2,500:** ~22,500
 
-**Last updated:** 2026-10-30
+**Last updated:** 2026-10-31
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
 | aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable      |
 | bet.news        | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.   |
-| ahi.team        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
+| adm.game        | premium   | $1,729    | $1,729        | high           | low    | 3      | namesilo         |
 | aba.bargains    | available | $21.99    | $43.99        | high           | low    | 3      | name.com         |
 | ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                |
-| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
+| ahi.team        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
 | adj.cam         | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship        |
-| dna.tours       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| auv.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship        |
-| adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship        |
 | fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ayn.build       | premium   | $155.45   | $155.45       | medium         | low    | 3      | spaceship        |
-| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
+| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
+| adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship        |
 | sku.us          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| bfa.guide       | premium   | $36.30    | $36.30        | medium         | low    | 3      | dynadot          |
-| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| auv.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship        |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
 | ssm.in          | resell    | —         | —             | high           | low    | 3      | —                |
+| ayn.build       | premium   | $155.45   | $155.45       | medium         | low    | 3      | spaceship        |
+| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| avel.io         | resell    | —         | —             | high           | low    | 4      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-31. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
