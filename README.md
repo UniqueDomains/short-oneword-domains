@@ -1,10 +1,10 @@
-# Short One-Word Domains, 6 Characters or Fewer (~6,900,000)
+# Short One-Word Domains, 6 Characters or Fewer (~6,710,000)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-~6%2C900%2C000%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-~6%2C710%2C000%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers short, one-word domain names of six characters or fewer across 506 TLDs. It includes 1,759,539 domains with a median ask of $420. Updated daily, most entries fall under $500, with a smaller premium tier priced above $2,000.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **~6,900,000 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **~6,710,000 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** ~6,900,000 domains · **Median ask:** ~$216.62 · **High-demand under $2,500:** ~22,500
+**Public extract:** 1,000 rows · **Live catalog:** ~6,710,000 domains · **Median ask:** ~$205.75 · **High-demand under $2,500:** ~21,800
 
-**Last updated:** 2026-10-31
+**Last updated:** 2026-11-01
 **Canonical page:** `https://unique.domains/domains/short`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aaj.sarl        | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo         |
-| cue.homes       | resell    | $1.99     | $17.29        | high           | medium | 3      | namesilo         |
-| ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
-| aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable      |
-| bet.news        | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.   |
-| adm.game        | premium   | $1,729    | $1,729        | high           | low    | 3      | namesilo         |
-| aba.bargains    | available | $21.99    | $43.99        | high           | low    | 3      | name.com         |
-| ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                |
-| ahi.team        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
-| adj.cam         | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship        |
-| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
-| adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship        |
-| sku.us          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| auv.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship        |
-| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
-| ssm.in          | resell    | —         | —             | high           | low    | 3      | —                |
-| ayn.build       | premium   | $155.45   | $155.45       | medium         | low    | 3      | spaceship        |
-| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
-| avel.io         | resell    | —         | —             | high           | low    | 4      | —                |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| aaj.sarl        | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo                                                           |
+| bet.news        | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                                     |
+| ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                           |
+| aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable                                                        |
+| ctv.uk          | resell    | —         | —             | high           | low    | 3      | —                                                                  |
+| adm.game        | premium   | $1,729    | $1,729        | high           | low    | 3      | namesilo                                                           |
+| aba.bargains    | available | $21.99    | $43.99        | high           | low    | 3      | name.com                                                           |
+| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
+| ahi.team        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot                                                            |
+| adj.cam         | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship                                                          |
+| sku.us          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
+| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                                            |
+| adu.style       | available | $6.93     | $31.25        | high           | low    | 3      | spaceship                                                          |
+| ssm.in          | resell    | —         | —             | high           | low    | 3      | —                                                                  |
+| auv.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship                                                          |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                                          |
+| avel.io         | resell    | —         | —             | high           | low    | 4      | —                                                                  |
+| ayn.build       | premium   | $155.45   | $155.45       | medium         | low    | 3      | spaceship                                                          |
+| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                           |
+| firm.eu         | resell    | —         | —             | high           | medium | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | ~6,900,000 live domains                              |
+| 1,000-row public sample | ~6,710,000 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | ~22,500 high-demand names under $2,500               |
+| Basic exported fields   | ~21,800 high-demand names under $2,500               |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-10-31. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Short One-Word Domains, 6 Characters or Fewer*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
