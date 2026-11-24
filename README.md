@@ -1,10 +1,10 @@
-# Short One-Word Domains (~6,860,000)
+# Short One-Word Domains (~6,760,000)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_home).
 
 1,000 real short one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/short) holds ~6,860,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/short) holds ~6,760,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/short](https://unique.domains/domains/short?utm_source=github&utm_medium=referral&utm_campaign=repo_short_oneword_domains&utm_content=top_page)
 
@@ -22,6 +22,8 @@ df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/short-oneword-
 print(df.head())
 ```
 
+Also on Kaggle, with every list: [One-Word Domains: Brandable, Short and More](https://www.kaggle.com/datasets/uniquedomains/one-word-domain-lists).
+
 ## Sample rows
 
 The first 20 rows of the file, in the file's order.
@@ -32,6 +34,7 @@ The first 20 rows of the file, in the file's order.
 | mazama.equipment | available | $22.97         | $22.97        | medium         | low    | 6      |
 | ripen.click      | premium   | $72.65         | $103.70       | high           | low    | 5      |
 | mhc.fyi          | premium   | $15.73         | $15.73        | high           | low    | 3      |
+| xlsx.delivery    | available | $6.75          | $61.99        | high           | medium | 4      |
 | pueblo.sale      | available | $7             | —             | medium         | low    | 6      |
 | csm.salon        | available | $45.74         | $45.74        | high           | low    | 3      |
 | befit.win        | premium   | $448           | $53.92        | high           | low    | 5      |
@@ -47,7 +50,6 @@ The first 20 rows of the file, in the file's order.
 | ters.poker       | available | $10.99         | $67.99        | low            | low    | 4      |
 | lodger.cheap     | available | $5.57          | $30.18        | medium         | low    | 6      |
 | isf.codes        | available | $55.20         | $55.20        | medium         | low    | 3      |
-| huck.ooo         | premium   | $58.99         | $23.59        | high           | low    | 4      |
 
 ## What is in the data
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~6,860,000 names in the live list today.
+- The files hold 1,000 rows of the ~6,760,000 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
